@@ -1,4 +1,5 @@
 [
+    "hru",
     "rawr",
     "ima",
     "wrd",
