@@ -4,6 +4,18 @@
         "actual_word": "How are you (English)"
     },
     {
+        "slang": "sigma",
+        "actual_word": "Strong Individual (English)"
+    },
+    {
+        "slang": "skibidi",
+        "actual_word": "skibidi a brainrot series (English)"
+    },
+    {
+        "slang": "fanum",
+        "actual_word": "a food tax (English)"
+    },
+    {
         "slang": "rawr",
         "actual_word": "I love you (English)"
     },
