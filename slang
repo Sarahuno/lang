@@ -1,4 +1,4 @@
-slang_words = [
+[
     "ima",
     "wrd",
     "ong",
