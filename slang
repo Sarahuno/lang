@@ -85,11 +85,11 @@
     },
     {
         "slang": "sigma",
-        "actual_word": "Sigma (a mathematical symbol) (English)"
+        "actual_word": "Sigma (a strong individual) (English)"
     },
     {
         "slang": "skibidi",
-        "actual_word": "Skibidi (a song by Little Big) (English)"
+        "actual_word": "Skibidi (a gmod series) (English)"
     },
     {
         "slang": "erm",
@@ -105,7 +105,7 @@
     },
     {
         "slang": "rizz",
-        "actual_word": "Really (English)"
+        "actual_word": "being attractive (English)"
     },
     {
         "slang": "finna",
