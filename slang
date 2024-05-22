@@ -97,7 +97,7 @@
     },
     {
         "slang": "fanum",
-        "actual_word": "Fan (someone who is enthusiastic about something) (English)"
+        "actual_word": "Fanum a food tax (English)"
     },
     {
         "slang": "bro",
@@ -153,7 +153,7 @@
     },
     {
         "slang": "bae",
-        "actual_word": "Before anyone else (English)"
+        "actual_word": "Before anyone else or short for baby (English)"
     },
     {
         "slang": "GOAT",
